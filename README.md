@@ -1,1 +1,2 @@
-# C-143-Movie-Recommendation-1
+# imdb-moive-recommendation-stage-1
+Movie Recommendation app
